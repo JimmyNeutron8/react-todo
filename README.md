@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Click here to view the app in action.](https://jimmyneutron8.github.io/react-todo/)
+
 ## Available Scripts
 
 In the project directory, you can run:
